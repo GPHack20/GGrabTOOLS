@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: black;
+}
+#field2search{
+    height: 15%;
+    background-color: slategray;
+    font-size: 20px;
+}
+#blocks2search{
+    height: 65%;
+    background-color: cyan;
+}
+#accions{
+    height: 20%;
+    background-color: darkcyan;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 12px;
+    margin: 8px 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    text-align: center;
+}
+#lbCOM{
+    font-size: 25px;
+    font-style: italic;
+}
